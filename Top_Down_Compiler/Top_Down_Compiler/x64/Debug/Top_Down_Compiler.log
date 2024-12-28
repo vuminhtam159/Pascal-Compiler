@@ -1,0 +1,8 @@
+﻿  TopDownParser.cpp
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\Top_Down_Compiler\Lexer.h(94,7): warning C4101: 'num': unreferenced local variable
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\Top_Down_Compiler\SymbolTable.cpp(187,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\Top_Down_Compiler\SymbolTable.cpp(327,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\Top_Down_Compiler\TopDownParser.cpp(2366,8): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\Top_Down_Compiler\TopDownParser.cpp(2005): warning C4715: 'TopDownParser::findUnusedRegister': not all control paths return a value
+  LINK : C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\x64\Debug\Top_Down_Compiler.exe not found or not built by the last incremental link; performing full link
+  Top_Down_Compiler.vcxproj -> C:\Users\vumin\OneDrive - North Dakota University System\CSCI 452 Compiler\Top_Down_Compiler\x64\Debug\Top_Down_Compiler.exe
